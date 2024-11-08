@@ -4,6 +4,7 @@ html {
 
 body {
   margin: 0;
+  
   font-family: "Work Sans", sans-serif;
 }
 
@@ -295,6 +296,6 @@ body {
   .nine p {
     font-size: 1.5rem;
     font-weight: lighter;
-    overflow: auto;
+    overflow: scroll;
   }
 }
